@@ -1,3 +1,5 @@
+# H-index Booster
+
 ### Calculate H-index
 From Wikipedia:
 > The h-index is defined as the maximum value of h such that the given author/journal has published h papers that have each been cited at least h times. The 
